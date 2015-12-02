@@ -44,12 +44,55 @@ a:hover{
 	color:#fff;
 }
 
-
-
 /*END OF JUMBOTRON*/
 
+/*CONTENT*/
+.featured {
+	margin-bottom:60px;
+}
 
+.product {
+	background-color:#edf1f4;
+	border-radius:5%;
+	border:5px solid rgb(252, 252, 252);
+}
+.product a {
+	margin-bottom:10px;
+}
 
+.img-box {
+	margin:10px 0px;
+}
+
+/*END OF CONTENT*/
+
+/*FOOTER*/
+footer{
+	background-color:#231f20;
+	padding-top:20px;
+}
+
+footer a{
+	color:#bfc0c1;
+}
+
+.contact-info {
+	padding-top:15px;
+	padding-left:40px;
+	border-right:1px solid #333;
+	border-left:1px solid #333;
+}
+
+.social {
+	padding:15px;
+}
+
+footer .fine-print {
+	margin-top:10px;
+	margin-bottom:15px;
+	color:#505050;
+}
+/*END OF FOOTER*/
 
 
 
